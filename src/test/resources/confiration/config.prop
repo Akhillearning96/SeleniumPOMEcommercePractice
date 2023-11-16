@@ -1,0 +1,12 @@
+ browser = chrome
+ url = https://practice.automationtesting.in/my-account/
+ username = akhil.chennuru95@gmail.com
+ password = 5100aA@123
+ 
+ headless = false
+ incognito = false
+ 
+ 
+ highlight = true
+ 
+ 

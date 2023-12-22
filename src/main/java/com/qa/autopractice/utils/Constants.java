@@ -10,6 +10,7 @@ public class Constants {
 	public static final String SHOPPING_PAGE_URL = "https://practice.automationtesting.in/shop/";
 	public static final String PRODUCT_PAGE_HEADER= "Android Quick Start Guide";
 	public static final String REGISTATION_CONFIRMATION ="Hello";
+	public static final String SHIPPING_PAGE_TITLE = "Checkout";
 	
 	public static final List<String> ACCOUNT_PAGE_LINKS_LIST() {
 		

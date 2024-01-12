@@ -27,7 +27,12 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 			<artifactId>selenium-java</artifactId>
 			<version>4.11.0</version>
 		</dependency>
-
+<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>
+				webdrivermanager</artifactId>
+			<version>5.4.0</version>
+		</dependency>
 
 		<dependency>
 			<groupId>org.testng</groupId>
